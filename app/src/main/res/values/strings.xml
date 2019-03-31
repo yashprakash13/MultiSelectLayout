@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MultiSelect Layout</string>
+
+    <string name="choose_those_four_categories_you_dote_on">Choose atleast 4 genres you dote on!</string>
+    <string name="done">Done!</string>
+    <string name="selected_four_genres_message">You have selected 4 genres!</string>
+    <string name="updating_genres_message">Updating your likings...</string>
+    <string name="selected_message">You have selected:</string>
+    <string name="at_least_4_message">Please select atleast 4 genres!</string>
+</resources>
